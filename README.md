@@ -3,3 +3,4 @@
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 ### ![Lionel Messi](https://upload.wikimedia.org/wikipedia/commons/b/b8/Messi_vs_Nigeria_2018.jpg)
 Making the Base and the Mount so far has been fun, I really like Onshape and how I'm getting used to it. I thought I wouldn't be able to use it at all but now I'm good
+I just finsihed making the fork part for the caster, I watched the video and followed along with it, I learned how to fillet and Chamfer.
